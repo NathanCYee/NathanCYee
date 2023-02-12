@@ -14,3 +14,5 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,flask,postgres,mysql,sqlite,aws,docker,github,jenkins,maven,idea,linux)](https://skillicons.dev)
 
 [![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanCYee)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanCYee&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+![Nathan's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=nyee)
