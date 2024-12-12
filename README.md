@@ -7,8 +7,10 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nathanyee)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7147272/nathan-y)
 [![Github Badge](https://img.shields.io/github/followers/NathanCYee?style=social)](https://github.com/NathanCYee)
-- 🔭 I’m an undergraduate student & research assistant at **San Jose State University**
-- 🌱 I’m currently learning about **Data Engineering, Machine Learning, and Cloud Technologies**
+- 💼 I am currently an Associate Solutions Architect at **Amazon Web Services**
+- 🔭 I am a part-time Masters student at the **Georgia Institute of Technology** studying Computer Science
+- 🎓 I graduated from **San Jose State University** with a B.S. in Computer Science in 2024
+- 🌱 I am currently learning about **Data Engineering, Machine Learning, and Cloud Technologies**
 - 💬 Ask me about **Machine Learning, Python, and Java**
 
 [![](https://visitcount.itsvg.in/api?id=NathanCYee&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
